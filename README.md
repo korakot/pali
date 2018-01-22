@@ -1,0 +1,2 @@
+# pali
+Pali NLP resources
